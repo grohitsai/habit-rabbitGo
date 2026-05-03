@@ -5,7 +5,6 @@
 A beautiful habit tracking web application with GitHub-style contribution heatmaps, progress analytics, and streak tracking. Built with a dark iOS-inspired design system.
 
 🔗 Live Demo: https://habit-rabbit-bsgt.vercel.app/dashboard.html
-📂 Repository: https://github.com/grohitsai/habit-rabbitGo
 
 <!-- Screenshots placeholder: Replace with actual screenshots -->
 <!-- ![Dashboard](docs/screenshots/dashboard.png) -->
